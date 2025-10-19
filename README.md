@@ -44,5 +44,5 @@
 ### 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bassamhafez&theme=github-compact" alt="Bassam's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Begad-El3shry&theme=github-compact" alt="Begad's Contribution Graph" />
 </div>
