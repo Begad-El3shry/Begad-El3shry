@@ -41,8 +41,8 @@
 <br/>
 <hr/>
 
-### 📈 GitHub Contribution Graph
+### 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Begad-El3shry&theme=github-compact" alt="Begad's Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begad-El3shry&layout=compact&theme=radical" height="170" alt="Top languages" />
 </div>
