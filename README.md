@@ -41,11 +41,8 @@
 <br/>
 <hr/>
 
+### 📈 GitHub Contribution Graph
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BegadElashry/BegadElashry/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bassamhafez&theme=github-compact" alt="Bassam's Contribution Graph" />
 </div>
-
-<hr/>
-
