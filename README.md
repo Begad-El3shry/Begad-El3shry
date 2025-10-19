@@ -1,40 +1,53 @@
-# Hi, I'm Begad Elashry 👋
-**Front-End Developer | React & Next.js Enthusiast | UI/UX Lover**
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BegadElashry.BegadElashry" />
 
----
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Begad+Elashry!;" />
+</h1>
 
-## 🔹 About Me
-I’m a passionate front-end developer with experience building responsive and interactive web applications using **HTML, CSS, JavaScript, React, Next.js**, and modern UI libraries like **Tailwind CSS** and **ShadCN**. I enjoy creating clean, user-friendly interfaces and experimenting with new technologies.
+<h3 align="center">A passionate Front-End Developer from Egypt 🇪🇬</h3>
 
-- 💻 Experienced with **React, Next.js, Redux, Bootstrap, MUI**
-- 🎨 Skilled in **UI/UX design** and **responsive design**
-- ⚡ Currently exploring **full-stack development with Node.js & TypeScript**
-- 🌱 Always learning and building new projects
+<br/>
 
----
+<div align="center">
+ 🔭 I’m currently working on **Knooze: scrap & surplus marketplace (Next.js, TS, Tailwind)**  
 
-## 🔹 Featured Projects
+ 🌱 I’m currently learning **Full-Stack Development & advanced Next.js techniques**  
 
-| Project | Tech | Demo / GitHub |
-|---------|------|----------------|
-| Knooze | Next.js, TypeScript, Tailwind, ShadCN | [Live](https://knooze.vercel.app/) / [GitHub](https://github.com/Begad-El3shry/knooze) |
-| Movify | React, Redux, Axios, Bootstrap | [Live](https://movify-omega.vercel.app/) / [GitHub](https://github.com/Begad-El3shry/Movify) |
-| Restaurant App | HTML, CSS, Bootstrap, JS | [Live](https://begad-el3shry.github.io/Restaurant-website) / [GitHub](https://github.com/Begad-El3shry/Restaurant-website) |
-| To-Do App | Next.js, TypeScript, MUI | [GitHub](https://github.com/Begad-El3shry/ToDo-app) |
-| Bakery Website | HTML, CSS, Bootstrap, JS | [Live](https://begad-el3shry.github.io/Bakery_Website/) / [GitHub](https://github.com/Begad-El3shry/Bakery_Website) |
+💬 Ask me about **React, Next.js, Tailwind, ShadCN, or JavaScript**  
 
----
+⚡ Fun fact: **I love building small experiments and polishing UI/UX in projects**
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:begadelashry7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/begad-elashry-8a3104216" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.knooze.online/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=chrome&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## 🔹 Skills
+<hr/>
+ 
+<h2 align="center">⚒️ Languages & Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,html,css,javascript,typescript,tailwind,redux,git,github,figma,nodejs" />
+</div>
 
-**Languages:** HTML, CSS, JavaScript, TypeScript  
-**Frameworks/Libraries:** React, Next.js, Redux, Bootstrap, MUI, Tailwind CSS, ShadCN  
-**Tools:** Git, GitHub, Vercel, Figma  
-**Other:** Responsive Design, UI/UX, API Integration, Frontend Testing
+<br/>
+<hr/>
 
----
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BegadElashry/BegadElashry/output/github-contribution-grid-snake.svg" />
+</div>
 
-## 🔹 Contact Me
-- 🌐 Portfolio: [begad-el3shry.github.io](https://begad-el3shry.github.io/)  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/begad-elashry](https://linkedin.com/in/begad-elashry)
+<hr/>
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
