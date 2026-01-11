@@ -46,11 +46,5 @@
 ### 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Begad-El3shry&show_icons=true&theme=radical&rank_icon=github" height="170" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begad-El3shry&layout=compact&theme=radical" height="170" alt="Top languages" />
-</div>
-<br/>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Begad-El3shry&theme=radical" height="170" alt="GitHub Streak" />
 </div>
