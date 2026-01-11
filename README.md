@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Begad-El3shry.Begad-El3shry" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Begad-El3shry&color=blueviolet&style=flat-square" alt="Visitors" />
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Begad+Elashry!;" />
