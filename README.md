@@ -43,8 +43,7 @@
 <br/>
 <hr/>
 
-### 🔥 My GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Begad-El3shry&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begad-El3shry&layout=compact&theme=radical" height="170" alt="Top languages" />
 </div>
