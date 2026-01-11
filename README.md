@@ -15,7 +15,7 @@
 
  🌱 I’m currently learning **Full-Stack Development & advanced Next.js techniques**  
 
-💬 Ask me about **React, Next.js, Tailwind, ShadCN, or JavaScript**  
+💬 Ask me about **React, Next.js, Tailwind, ShadCN, and JavaScript**  
 
 ⚡ Fun fact: **I love building small experiments and polishing UI/UX in projects**
 </div>
