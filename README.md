@@ -36,24 +36,19 @@
 ### 📊 GitHub Analysis
 
 <div align="center">
-  <a href="https://github.com/Begad-El3shry">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=Begad-El3shry&theme=radical&hide_border=true" 
-         height="180" 
-         alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/Begad-El3shry">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begad-El3shry&layout=compact&theme=radical&hide_border=true" 
-         height="180" 
-         alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Begad-El3shry&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Begad-El3shry&show_icons=true&theme=radical&count_private=true" 
        alt="Begad's GitHub Stats" 
-       height="180" />
+       height="190" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Begad-El3shry&theme=radical" 
+       height="190" 
+       alt="GitHub Streak" />
+       
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begad-El3shry&layout=compact&theme=radical" 
+       height="190" 
+       alt="Top Languages" />
 </div>
 
 ---
