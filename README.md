@@ -11,13 +11,13 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on **Knooze: scrap & surplus marketplace (Next.js, TS, Tailwind)**  
+ 🔭 I’m currently working on **Hafez Al Quran | Teaching Quran Academy (Next.js, TS, Tailwind, Framer motion)**  
 
  🌱 I’m currently learning **Full-Stack Development & advanced Next.js techniques**  
 
 💬 Ask me about **React, Next.js, Tailwind, ShadCN, and JavaScript**  
 
-⚡ Fun fact: **I love building small experiments and polishing UI/UX in projects**
+⚡ Fun fact: **I love building large experiments and polishing UI/UX in projects**
 </div>
  
 <div align="center"> 
@@ -46,5 +46,9 @@
 ### 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Begad-El3shry&theme=radical" height="170" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Begad-El3shry&theme=radical" 
+         height="170" 
+         alt="GitHub Streak" />
+  </a>
 </div>
