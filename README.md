@@ -46,5 +46,5 @@
 ### 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Begad-El3shry&theme=radical" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Begad-El3shry&theme=radical" height="170" alt="GitHub Streak" />
 </div>
