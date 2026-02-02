@@ -32,23 +32,20 @@
 </div>
 
 ---
-
-### 📊 GitHub Analysis
+### 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Begad-El3shry&show_icons=true&theme=radical&count_private=true" 
-       alt="Begad's GitHub Stats" 
-       height="190" />
-  
-  <br/>
+  <a href="https://github.com/Begad-El3shry">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Begad-El3shry&theme=radical" 
+         height="170" 
+         alt="GitHub Streak" />
+  </a>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Begad-El3shry&theme=radical" 
-       height="190" 
-       alt="GitHub Streak" />
-       
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begad-El3shry&layout=compact&theme=radical" 
-       height="190" 
-       alt="Top Languages" />
+  <a href="https://github.com/Begad-El3shry">
+    <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=Begad-El3shry&show_icons=true&theme=radical" 
+         height="170" 
+         alt="Begad's Stats" />
+  </a>
 </div>
 
 ---
