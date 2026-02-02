@@ -40,12 +40,6 @@
          height="170" 
          alt="GitHub Streak" />
   </a>
-
-  <a href="https://github.com/Begad-El3shry">
-    <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=Begad-El3shry&show_icons=true&theme=radical" 
-         height="170" 
-         alt="Begad's Stats" />
-  </a>
 </div>
 
 ---
